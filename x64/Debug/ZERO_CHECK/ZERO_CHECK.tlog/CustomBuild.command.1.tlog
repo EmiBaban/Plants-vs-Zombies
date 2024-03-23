@@ -1,0 +1,10 @@
+^C:\USERS\EMI\DOWNLOADS\TEMA\GFX-FRAMEWORK-MASTER\CMAKEFILES\28D1062E83263E3BEE2CBC182C270818\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Emi/Downloads/tema/gfx-framework-master -BC:/Users/Emi/Downloads/tema/gfx-framework-master --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Emi/Downloads/tema/gfx-framework-master/GFXFramework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,7 @@
+﻿  main.cpp
+     Creating library C:/Users/Emi/Downloads/tema/gfx-framework-master/Debug/GFXFramework.lib and object C:/Users/Emi/Downloads/tema/gfx-framework-master/Debug/GFXFramework.exp
+  GFXFramework.vcxproj -> C:\Users\Emi\Downloads\tema\gfx-framework-master\bin\Debug\GFXFramework.exe
+  The system cannot find the file specified.
+  Junction created for C:\Users\Emi\Downloads\tema\gfx-framework-master\bin\Debug\src <<===>> C:\Users\Emi\Downloads\tema\gfx-framework-master\src
+  The system cannot find the file specified.
+  Junction created for C:\Users\Emi\Downloads\tema\gfx-framework-master\bin\Debug\assets <<===>> C:\Users\Emi\Downloads\tema\gfx-framework-master\assets

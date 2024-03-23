@@ -1,0 +1,10 @@
+^C:\USERS\EMI\DOWNLOADS\TEMA\GFX-FRAMEWORK-MASTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Emi/Downloads/tema/gfx-framework-master -BC:/Users/Emi/Downloads/tema/gfx-framework-master --check-stamp-file C:/Users/Emi/Downloads/tema/gfx-framework-master/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+C:/Users/Emi/Downloads/tema/gfx-framework-master/CMakeFiles/GFXFramework.dir
+C:/Users/Emi/Downloads/tema/gfx-framework-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/Emi/Downloads/tema/gfx-framework-master/CMakeFiles/ZERO_CHECK.dir
